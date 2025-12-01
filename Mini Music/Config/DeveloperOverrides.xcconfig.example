@@ -1,0 +1,5 @@
+// Copy this file to DeveloperOverrides.xcconfig (kept out of git) and
+// set your actual bundle identifiers and Apple Developer Team ID.
+
+APP_BUNDLE_IDENTIFIER = com.yourteam.minimusic
+DEVELOPMENT_TEAM = YOURTEAMID

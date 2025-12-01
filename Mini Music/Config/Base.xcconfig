@@ -1,0 +1,4 @@
+APP_BUNDLE_IDENTIFIER = com.example.minimusic
+DEVELOPMENT_TEAM =
+
+#include? "DeveloperOverrides.xcconfig"

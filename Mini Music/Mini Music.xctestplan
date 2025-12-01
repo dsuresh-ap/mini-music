@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "01061C09-8DFC-4ED5-A03C-996043EEB84B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Mini Music.xcodeproj",
+      "identifier" : "1AE7E9452E933E82004E5154",
+      "name" : "Mini Music"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Mini Music.xcodeproj",
+        "identifier" : "1AE7E9522E933E83004E5154",
+        "name" : "Mini MusicTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Mini Music.xcodeproj",
+        "identifier" : "1AE7E95C2E933E83004E5154",
+        "name" : "Mini MusicUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

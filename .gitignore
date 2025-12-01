@@ -4,6 +4,9 @@
 
 ## User settings
 xcuserdata/
+*.xcuserstate
+*.DS_Store
+Mini Music/Config/DeveloperOverrides.xcconfig
 
 ## Obj-C/Swift specific
 *.hmap
